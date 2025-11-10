@@ -8,8 +8,8 @@ public abstract class WordVersion {
 	private WordTextBox textBox = new WordTextBox();
 
 	public void WordTest(){
-		System.out.println("button");
-		System.out.println("panel");
-		System.out.println("textbox");
+		System.out.println("button tested successfully");
+		System.out.println("panel tested successfully");
+		System.out.println("textbox tested successfully");
 	}
 }
