@@ -18,4 +18,9 @@ public class Word90Version extends WordVersion {
 		}
 
 	}
+	public void WordTest(){
+		System.out.println("Word 90 button tested successfully");
+		System.out.println("Word 90 panel tested successfully");
+		System.out.println("Word 90 textbox tested successfully");
+	}
 }

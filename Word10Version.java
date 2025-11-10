@@ -16,4 +16,10 @@ public class Word10Version extends WordVersion{
 		}
 
 	}
+
+	public void WordTest(){
+		System.out.println("Word 00 button tested successfully");
+		System.out.println("Word 00 panel tested successfully");
+		System.out.println("Word 00 textbox tested successfully");
+	}
 }

@@ -16,4 +16,10 @@ public class Word21Version extends WordVersion{
 		}
 
 	}
+
+	public void WordTest(){
+		System.out.println("Word 21 button tested successfully");
+		System.out.println("Word 21 panel tested successfully");
+		System.out.println("Word 21 textbox tested successfully");
+	}
 }
